@@ -1,22 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        
-        <a
-          className="App-link"
-          href="https://github.com/jaideepkekre"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Jaideep Kekre
-        </a>
-      </header>
+    <div class="background">
+      <div class="logo">
+        <b>
+          Jai
+          <span>d</span>
+          ee 
+           <span>p </span>
+          Ke
+          <span>K</span>
+          r
+          <span>e</span>
+        </b>
+      </div>
     </div>
   );
 }
