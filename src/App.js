@@ -20,26 +20,26 @@ function App() {
       </div>
       <div class="typer">
       <Typing loop={true} speed={250}>
-        Python
-        <Typing.Backspace count={8} />
+        PYTHON
+        <Typing.Backspace count={9} />
         <Typing.Delay ms={1000} />
-        Go Lang
-        <Typing.Backspace count={8} />
+        GO LANG
+        <Typing.Backspace count={9} />
         <Typing.Delay ms={1000} />
-        ReactJS 
-        <Typing.Backspace count={8} />
+        REACT JS 
+        <Typing.Backspace count={9} />
         <Typing.Delay ms={1000} />
-        Apache Spark
-        <Typing.Backspace count={13} />
+        APACHE SPARK
+        <Typing.Backspace count={14} />
         <Typing.Delay ms={1000} />
-        Apache Kafka
-        <Typing.Backspace count={13} />
+        APACHE KAFKA
+        <Typing.Backspace count={14} />
         <Typing.Delay ms={1000} />
-        RabbitMQ
-        <Typing.Backspace count={13} />
+        RABBIT MQ
+        <Typing.Backspace count={14} />
         <Typing.Delay ms={1000} />
-        Nginx
-        <Typing.Backspace count={13} />
+        NGINX
+        <Typing.Backspace count={14} />
         </Typing>
         </div>
 

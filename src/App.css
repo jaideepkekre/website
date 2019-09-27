@@ -9,11 +9,10 @@
   color: white;
 
 
-   /* background-image: url(../src/synth.jpg); */
-/* opacity: 0.8; */
+   background-image: url(https://media.giphy.com/media/l3UcrZHrGW2CjHXqM/giphy.gif);
    /* Full height */
    height: 100%;
-
+   backdrop-filter: blur(10px);
    /* Center and scale the image nicely */
    background-position: center;
    background-repeat: no-repeat;
@@ -24,10 +23,11 @@
 @import url(//fonts.googleapis.com/css?family=Orbitron);
 
 .typer{
-  font: 10vh "Orbitron";
+  font: 10vh "virus_01regular";
+  font-weight: 100;
   justify-content: center;
-  padding-top: 50px;
-  color:  #39ff14
+  padding-top: 65vh;
+  color:  orchid
 }
 
 
@@ -35,13 +35,40 @@
 @import url(//fonts.googleapis.com/css?family=Shadows+Into+Light);
 
 
+@font-face {
+  font-family: 'streamsterregular';
+  src: url('streamster-webfont.woff2') format('woff2'),
+    url('streamster-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 
+}
+
+@font-face {
+  font-family: 'virus_01regular';
+  src: url('virus_01-webfont.woff2') format('woff2'),
+    url('virus_01-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+@font-face {
+  font-family: 'digitaledregular';
+  src: url('digitaled-webfont.woff2') format('woff2'),
+    url('digitaled-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
 
 
 .logo b {
-  font: 10vh "Shadows Into Light";
-  color: #fee;
-  text-shadow: 0 -40px 500px, 0 0 1px, 0 0 1em #ff4444, 0 0 0.5em #ff4444, 0 0 0.1em #ff4444, 0 10px 3px #000;
+  font: 10vh "streamsterregular";
+  font-weight: 100;
+  color:orchid;
+  text-shadow: 10px 10px 10px;
 }
 
 .logo b span {
