@@ -1,31 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e69d0a9cf321923d0ec1e416febd8be",
+    "revision": "6137cd7bf1fcc4be084e7ec254837cec",
     "url": "/index.html"
   },
   {
-    "revision": "04ece43609b2d4c1bbd9",
-    "url": "/static/css/main.405182b8.chunk.css"
+    "revision": "f3f1d14caa578bf0e65b",
+    "url": "/static/css/main.00ef9b63.chunk.css"
   },
   {
     "revision": "e6ad46019db3e2eeff2c",
     "url": "/static/js/2.e1e8fd0c.chunk.js"
   },
   {
-    "revision": "04ece43609b2d4c1bbd9",
-    "url": "/static/js/main.2d514f84.chunk.js"
+    "revision": "f3f1d14caa578bf0e65b",
+    "url": "/static/js/main.ddd969b4.chunk.js"
   },
   {
     "revision": "105386bd44ea1df1540c",
     "url": "/static/js/runtime-main.fc27b622.js"
-  },
-  {
-    "revision": "cf5b089379d535164a3205d56206dfeb",
-    "url": "/static/media/digitaled-webfont.cf5b0893.woff2"
-  },
-  {
-    "revision": "f6c069362cbfdbe3c6bf73d394605509",
-    "url": "/static/media/digitaled-webfont.f6c06936.woff"
   },
   {
     "revision": "1ed515b15d9d2605352614e65816ce40",
