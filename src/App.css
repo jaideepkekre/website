@@ -54,14 +54,7 @@
 }
 
 
-@font-face {
-  font-family: 'digitaledregular';
-  src: url('digitaled-webfont.woff2') format('woff2'),
-    url('digitaled-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
 
-}
 
 
 .logo b {

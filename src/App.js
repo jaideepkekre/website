@@ -41,7 +41,8 @@ function App() {
         NGINX
         <Typing.Backspace count={14} />
         </Typing>
-        </div>
+      </div>
+      <audio src="https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_700KB.mp3" type="audio/mpeg"  autoPlay />
 
     </div>
   );
