@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
-import Typist from 'react-typist';
+import BackgroundSlider from 'react-background-slider'
+
 import Typing from 'react-typing-animation';
 
 
-var bg = ["https://media.giphy.com/media/l3UcrZHrGW2CjHXqM/giphy.gif",
+var bg = [
+  "https://media.giphy.com/media/l3UcrZHrGW2CjHXqM/giphy.gif",
   "https://media.giphy.com/media/7bEpr3NIPNY0E/giphy.gif",
   "https://media.giphy.com/media/k5zu35npVsYfgZQwwl/giphy.gif",
   "https://media.giphy.com/media/pHZ8BBgLaXPliFNudh/giphy.gif",
@@ -23,7 +25,11 @@ function getbackground() {
 
 function App() {  
   return (
+    
     <div class="background" style={{ backgroundImage: 'url(' + getbackground() + ')' }} >
+      <BackgroundSlider
+        images={bg}
+        duration={5} transition={2} />
       <div class="logo">       
           <b>
             Jai
