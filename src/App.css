@@ -8,8 +8,8 @@
   font-size: 10px;
   color: white;
 
-
-   background-image: url(https://media.giphy.com/media/l3UcrZHrGW2CjHXqM/giphy.gif);
+/* https://media.giphy.com/media/l3UcrZHrGW2CjHXqM/giphy.gif */
+   background-image: url("https://media.giphy.com/media/7bEpr3NIPNY0E/giphy.gif");
    /* Full height */
    height: 100%;
    backdrop-filter: blur(10px);
