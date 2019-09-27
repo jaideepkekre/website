@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.00ef9b63.chunk.css",
-    "main.js": "/static/js/main.ddd969b4.chunk.js",
-    "main.js.map": "/static/js/main.ddd969b4.chunk.js.map",
+    "main.css": "/static/css/main.8585d01c.chunk.css",
+    "main.js": "/static/js/main.329c53fa.chunk.js",
+    "main.js.map": "/static/js/main.329c53fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fc27b622.js",
     "runtime-main.js.map": "/static/js/runtime-main.fc27b622.js.map",
     "static/js/2.e1e8fd0c.chunk.js": "/static/js/2.e1e8fd0c.chunk.js",
     "static/js/2.e1e8fd0c.chunk.js.map": "/static/js/2.e1e8fd0c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.15072d0972408dced56438f47d8038f7.js": "/precache-manifest.15072d0972408dced56438f47d8038f7.js",
+    "precache-manifest.a3d83c7f8abbd2d6dabbe5dc8bf45c23.js": "/precache-manifest.a3d83c7f8abbd2d6dabbe5dc8bf45c23.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.00ef9b63.chunk.css.map": "/static/css/main.00ef9b63.chunk.css.map",
+    "static/css/main.8585d01c.chunk.css.map": "/static/css/main.8585d01c.chunk.css.map",
     "static/media/App.css": "/static/media/virus_01-webfont.9cfbc689.woff"
   }
 }
