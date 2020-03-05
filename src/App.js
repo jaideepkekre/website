@@ -9,34 +9,50 @@ const { Header, Content, Sider } = Layout;
 
 function App() {
   return (
-    <Layout style={{ background: "white"}} >
-      <div style={{ background: "white", minwidth: "400px" }}>
-        <Content >
-        <LinkedIn tyle={{ float:"left" }}/>
+    <Layout style={{ background: "white" }}>
+      <div style={{paddingTop:"30px"}}>
+      </div>
+      <div style={{ background: "white", minwidth: "400px", maxWidth:"850px", margin:"auto" }}>
+        <Content>          
           <div
             style={{
-              height: "400px",
+              height: "200px",
               width: "400px",
               float: "left",
               background: "white",
-              paddingTop:"20px"
+              paddingTop: "0px"
+            }}
+          >
+             <LinkedIn  />
+            
+          </div>
+          <div
+            style={{
+              width: "400px",
+              height: "400px",
+              float: "right",
+              background: "white",
+              paddingTop: "0px"
             }}
           >
             <TL />
+            
           </div>
-          <div
-            style={{
+
+          <div style={{
               width: "400px",
-              height: "300px",
+              height: "400px",
               float: "left",
               background: "white",
               paddingTop: "20px"
-            }}
-          >
-            <Resumedesc />
+            }} >
+
+          <Resumedesc /> 
           </div>
+
+
         </Content>
-        <footer style={{ backgroundColor: "white" }}></footer>
+        <footer style={{ backgroundColor: "white" }}> </footer>
       </div>
     </Layout>
   );
