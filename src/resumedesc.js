@@ -56,7 +56,7 @@ function ResumeDesc() {
               
       }}
     >
-      <Collapse accordion bordered={false} style={{maxWidth:"400px" }}>
+      <Collapse accordion bordered={false} >
         <Panel header={<Text strong>Engineering</Text>} key="1">
           <Descriptions
             title=""
